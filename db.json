@@ -1,4 +1,86 @@
 {
+  "users": [
+  {
+    "username": "user1",
+    "avatar": "https://robohash.org/user1.png"
+  },
+  {
+    "username": "user2",
+    "avatar": "https://robohash.org/user2.png"
+  },
+  {
+    "username": "user3",
+    "avatar": "https://robohash.org/user3.png"
+  },
+  {
+    "username": "user4",
+    "avatar": "https://robohash.org/user4.png"
+  },
+  {
+    "username": "user5",
+    "avatar": "https://robohash.org/user5.png"
+  },
+  {
+    "username": "user6",
+    "avatar": "https://robohash.org/user6.png"
+  },
+  {
+    "username": "user7",
+    "avatar": "https://robohash.org/user7.png"
+  },
+  {
+    "username": "user8",
+    "avatar": "https://robohash.org/user8.png"
+  },
+  {
+    "username": "user9",
+    "avatar": "https://robohash.org/user9.png"
+  },
+  {
+    "username": "user10",
+    "avatar": "https://robohash.org/user10.png"
+  },
+  {
+    "username": "user11",
+    "avatar": "https://robohash.org/user11.png"
+  },
+  {
+    "username": "user12",
+    "avatar": "https://robohash.org/user12.png"
+  },
+  {
+    "username": "user13",
+    "avatar": "https://robohash.org/user13.png"
+  },
+  {
+    "username": "user14",
+    "avatar": "https://robohash.org/user14.png"
+  },
+  {
+    "username": "user15",
+    "avatar": "https://robohash.org/user15.png"
+  },
+  {
+    "username": "user16",
+    "avatar": "https://robohash.org/user16.png"
+  },
+  {
+    "username": "user17",
+    "avatar": "https://robohash.org/user17.png"
+  },
+  {
+    "username": "user18",
+    "avatar": "https://robohash.org/user18.png"
+  },
+  {
+    "username": "user19",
+    "avatar": "https://robohash.org/user19.png"
+  },
+  {
+    "username": "user20",
+    "avatar": "https://robohash.org/user20.png"
+  }
+],
   "questions": [
     { "id": 1, "question": "2 + 2?", "options": ["1", "2", "3", "4"], "answer": "4" },
     { "id": 2, "question": "1 + 1?", "options": ["1", "2", "3", "4"], "answer": "2" },
