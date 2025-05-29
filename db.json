@@ -82,9 +82,9 @@
   }
 ],
   "questions": [
-    { "id": 1, "question": "2 + 2?", "options": ["1", "2", "3", "4"], "answer": "4" },
-    { "id": 2, "question": "1 + 1?", "options": ["1", "2", "3", "4"], "answer": "2" },
-    { "id": 3, "question": "1 + 2?", "options": ["1", "2", "3", "4"], "answer": "3" }
+    { "id": 1, "quizQuestion": "2 + 2?", "quizOptions": ["1", "2", "3", "4"], "quizAnswer": "4" },
+    { "id": 2, "quizQuestion": "1 + 1?", "quizOptions": ["1", "2", "3", "4"], "quizAnswer": "2" },
+    { "id": 3, "quizQuestion": "1 + 2?", "quizOptions": ["1", "2", "3", "4"], "quizAnswer": "3" }
   ],
   "posts": [
     { "id": 1, "title": "Post 1" },
